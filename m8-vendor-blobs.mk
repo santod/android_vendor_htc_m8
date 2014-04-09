@@ -78,6 +78,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/etc/hltof.bin:/system/etc/hltof.bin \
         vendor/htc/m8/proprietary/etc/hldm.bin:/system/etc/hldm.bin \
         vendor/htc/m8/proprietary/etc/agps_rm:/system/etc/agps_rm \
+        vendor/htc/m8/proprietary/etc/wifi/wpa_supplicant.conf:/system/etc/wifi/wpa_supplicant.conf \
         vendor/htc/m8/proprietary/etc/firmware/dxhdcp2.b00:/system/etc/firmware/dxhdcp2.b00 \
         vendor/htc/m8/proprietary/etc/firmware/widevine.b03:/system/etc/firmware/widevine.b03 \
         vendor/htc/m8/proprietary/etc/firmware/cmnlib.b02:/system/etc/firmware/cmnlib.b02 \
