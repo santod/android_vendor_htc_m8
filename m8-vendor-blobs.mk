@@ -30,6 +30,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/bin/qmuxd:/system/bin/qmuxd \
         vendor/htc/m8/proprietary/bin/mm-qcamera-daemon:/system/bin/mm-qcamera-daemon \
         vendor/htc/m8/proprietary/bin/netmgrd:/system/bin/netmgrd \
+        vendor/htc/m8/proprietary/bin/hci_qcomm_init:/system/bin/hci_qcomm_init \
         vendor/htc/m8/proprietary/bin/htc_ebdlogd:/system/bin/htc_ebdlogd \
         vendor/htc/m8/proprietary/bin/wcnss_service:/system/bin/wcnss_service \
         vendor/htc/m8/proprietary/etc/hltrd.bin:/system/etc/hltrd.bin \
