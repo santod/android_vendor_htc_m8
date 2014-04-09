@@ -360,4 +360,17 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/vendor/lib/libadreno_utils.so:/system/vendor/lib/libadreno_utils.so \
         vendor/htc/m8/proprietary/vendor/lib/libOpenCL.so:/system/vendor/lib/libOpenCL.so \
         vendor/htc/m8/proprietary/vendor/lib/libOpenVG.so:/system/vendor/lib/libOpenVG.so \
-        vendor/htc/m8/proprietary/vendor/lib/libCB.so:/system/vendor/lib/libCB.so
+        vendor/htc/m8/proprietary/vendor/lib/libCB.so:/system/vendor/lib/libCB.so \
+        vendor/htc/m8/proprietary/lib/hw/camera.msm8974.so:/system/lib/hw/camera.msm8974.so \
+        vendor/htc/m8/proprietary/lib/libBeautyChat.so:/system/lib/libBeautyChat.so \
+        vendor/htc/m8/proprietary/lib/libalDE.so:/system/lib/libalDE.so \
+        vendor/htc/m8/proprietary/lib/libalDynamicWarping.so:/system/lib/libalDynamicWarping.so \
+        vendor/htc/m8/proprietary/lib/libalIAF.so:/system/lib/libalIAF.so \
+        vendor/htc/m8/proprietary/lib/libawb_calibration.so:/system/lib/libawb_calibration.so \
+        vendor/htc/m8/proprietary/lib/libcameraface.so:/system/lib/libcameraface.so \
+        vendor/htc/m8/proprietary/lib/libcamerapp.so:/system/lib/libcamerapp.so \
+        vendor/htc/m8/proprietary/lib/libhtc_depthmap.so:/system/lib/libhtc_depthmap.so \
+        vendor/htc/m8/proprietary/lib/libmmcamera_interface.so:/system/lib/libmmcamera_interface.so \
+        vendor/htc/m8/proprietary/lib/libmmjpeg_interface.so:/system/lib/libmmjpeg_interface.so \
+        vendor/htc/m8/proprietary/lib/libposteffect.so:/system/lib/libposteffect.so \
+        vendor/htc/m8/proprietary/lib/libqomx_core.so:/system/lib/libqomx_core.so
