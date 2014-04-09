@@ -340,6 +340,11 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/lib/libxml.so:/system/lib/libxml.so \
         vendor/htc/m8/proprietary/lib/libchromatix_skuf_ov12830_p12v01c_preview.so:/system/lib/libchromatix_skuf_ov12830_p12v01c_preview.so \
         vendor/htc/m8/proprietary/lib/libadsprpc.so:/system/lib/libadsprpc.so \
+        vendor/htc/m8/proprietary/vendor/firmware/keymaster.b00:/system/vendor/firmware/keymaster.b00 \
+        vendor/htc/m8/proprietary/vendor/firmware/keymaster.b01:/system/vendor/firmware/keymaster.b01 \
+        vendor/htc/m8/proprietary/vendor/firmware/keymaster.b02:/system/vendor/firmware/keymaster.b02 \
+        vendor/htc/m8/proprietary/vendor/firmware/keymaster.b03:/system/vendor/firmware/keymaster.b03 \
+        vendor/htc/m8/proprietary/vendor/firmware/keymaster.mdt:/system/vendor/firmware/keymaster.mdt \
         vendor/htc/m8/proprietary/vendor/lib/egl/eglsubAndroid.so:/system/vendor/lib/egl/eglsubAndroid.so \
         vendor/htc/m8/proprietary/vendor/lib/egl/libEGL_adreno.so:/system/vendor/lib/egl/libEGL_adreno.so \
         vendor/htc/m8/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:/system/vendor/lib/egl/libGLESv1_CM_adreno.so \
