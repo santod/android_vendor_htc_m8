@@ -247,7 +247,6 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/lib/libllvm-qcom.so:/system/lib/libllvm-qcom.so \
         vendor/htc/m8/proprietary/lib/libOmxAmrwbplusDec.so:/system/lib/libOmxAmrwbplusDec.so \
         vendor/htc/m8/proprietary/lib/libqmi_common_so.so:/system/lib/libqmi_common_so.so \
-        vendor/htc/m8/proprietary/lib/libNimsWrap.so:/system/lib/libNimsWrap.so \
         vendor/htc/m8/proprietary/lib/libgeofence.so:/system/lib/libgeofence.so \
         vendor/htc/m8/proprietary/lib/libscve.so:/system/lib/libscve.so \
         vendor/htc/m8/proprietary/lib/libchromatix_SKUAB_ST_s5k4e1_preview.so:/system/lib/libchromatix_SKUAB_ST_s5k4e1_preview.so \
