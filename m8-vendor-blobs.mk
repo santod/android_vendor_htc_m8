@@ -125,11 +125,6 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/etc/firmware/a300_pfp.fw:/system/etc/firmware/a300_pfp.fw \
         vendor/htc/m8/proprietary/etc/firmware/cmnlib.b03:/system/etc/firmware/cmnlib.b03 \
         vendor/htc/m8/proprietary/etc/firmware/hcheck.mdt:/system/etc/firmware/hcheck.mdt \
-        vendor/htc/m8/proprietary/etc/firmware/wlan:/system/etc/firmware/wlan \
-        vendor/htc/m8/proprietary/etc/firmware/wlan/prima:/system/etc/firmware/wlan/prima \
-        vendor/htc/m8/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini:/system/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini \
-        vendor/htc/m8/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:/system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
-        vendor/htc/m8/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:/system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
         vendor/htc/m8/proprietary/etc/firmware/leia_pfp_470.fw:/system/etc/firmware/leia_pfp_470.fw \
         vendor/htc/m8/proprietary/etc/firmware/hcheck.b03:/system/etc/firmware/hcheck.b03 \
         vendor/htc/m8/proprietary/etc/firmware/alIAF_InData_4M2M:/system/etc/firmware/alIAF_InData_4M2M \
