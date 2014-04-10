@@ -362,7 +362,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/vendor/lib/libOpenCL.so:/system/vendor/lib/libOpenCL.so \
         vendor/htc/m8/proprietary/vendor/lib/libOpenVG.so:/system/vendor/lib/libOpenVG.so \
         vendor/htc/m8/proprietary/vendor/lib/libCB.so:/system/vendor/lib/libCB.so \
-        vendor/htc/m8/proprietary/lib/hw/camera.msm8974.so:/system/lib/hw/camera.msm8974.so \
+        vendor/htc/m8/proprietary/lib/hw/camera.vendor.msm8974.so:/system/lib/hw/camera.vendor.msm8974.so \
         vendor/htc/m8/proprietary/lib/libBeautyChat.so:/system/lib/libBeautyChat.so \
         vendor/htc/m8/proprietary/lib/libalDE.so:/system/lib/libalDE.so \
         vendor/htc/m8/proprietary/lib/libalDynamicWarping.so:/system/lib/libalDynamicWarping.so \
