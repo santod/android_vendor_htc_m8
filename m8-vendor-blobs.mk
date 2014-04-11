@@ -374,4 +374,5 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/lib/libmmcamera_interface.so:/system/lib/libmmcamera_interface.so \
         vendor/htc/m8/proprietary/lib/libmmjpeg_interface.so:/system/lib/libmmjpeg_interface.so \
         vendor/htc/m8/proprietary/lib/libposteffect.so:/system/lib/libposteffect.so \
-        vendor/htc/m8/proprietary/lib/libqomx_core.so:/system/lib/libqomx_core.so
+        vendor/htc/m8/proprietary/lib/libqomx_core.so:/system/lib/libqomx_core.so \
+        vendor/htc/m8/proprietary/lib/hw/sensors.msm8974.so:/system/lib/sensors.msm8974.so
