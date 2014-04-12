@@ -217,8 +217,10 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:/system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
         vendor/htc/m8/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:/system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
         vendor/htc/m8/proprietary/vendor/lib/libdiag.so:/system/vendor/lib/libdiag.so \
+        vendor/htc/m8/proprietary/vendor/lib/libdsnetutils.so:/system/vendor/lib/libdsnetutils.so \
         vendor/htc/m8/proprietary/vendor/lib/libdsi_netctrl.so:/system/vendor/lib/libdsi_netctrl.so \
         vendor/htc/m8/proprietary/vendor/lib/libdsutils.so:/system/vendor/lib/libdsutils.so \
+        vendor/htc/m8/proprietary/vendor/lib/libtime_genoff.so:/system/vendor/lib/libtime_genoff.so \
         vendor/htc/m8/proprietary/vendor/lib/libidl.so:/system/vendor/lib/libidl.so \
         vendor/htc/m8/proprietary/vendor/lib/libqcci_legacy.so:/system/vendor/lib/libqcci_legacy.so \
         vendor/htc/m8/proprietary/vendor/lib/libqdi.so:/system/vendor/lib/libqdi.so \
@@ -229,3 +231,4 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/vendor/lib/libqmi_common_so.so:/system/vendor/lib/libqmi_common_so.so \
         vendor/htc/m8/proprietary/vendor/lib/libqmi_csi.so:/system/vendor/lib/libqmi_csi.so \
         vendor/htc/m8/proprietary/vendor/lib/libqmi_encdec.so:/system/vendor/lib/libqmi_encdec.so \
+        vendor/htc/m8/proprietary/vendor/lib/libqmiservices.so:/system/vendor/lib/libqmiservices.so
