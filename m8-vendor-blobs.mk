@@ -18,6 +18,8 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/vendor/lib/libacdbloader.so:/system/vendor/lib/libacdbloader.so \
         vendor/htc/m8/proprietary/vendor/lib/libadsprpc.so:/system/vendor/lib/libadsprpc.so \
         vendor/htc/m8/proprietary/vendor/lib/libaudcal.so:/system/vendor/lib/libaudcal.so \
+        vendor/htc/m8/proprietary/bin/irsc_util:/system/bin/irsc_util \
+        vendor/htc/m8/proprietary/bin/hci_qcomm_init:/system/bin/hci_qcomm_init \
         vendor/htc/m8/proprietary/bin/mpdecision:/system/bin/mpdecision \
         vendor/htc/m8/proprietary/bin/qmuxd:/system/bin/qmuxd \
         vendor/htc/m8/proprietary/bin/mm-qcamera-daemon:/system/bin/mm-qcamera-daemon \
