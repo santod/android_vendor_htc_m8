@@ -18,12 +18,24 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m8/proprietary/vendor/lib/libacdbloader.so:/system/vendor/lib/libacdbloader.so \
         vendor/htc/m8/proprietary/vendor/lib/libadsprpc.so:/system/vendor/lib/libadsprpc.so \
         vendor/htc/m8/proprietary/vendor/lib/libaudcal.so:/system/vendor/lib/libaudcal.so \
-        vendor/htc/m8/proprietary/bin/irsc_util:/system/bin/irsc_util \
+        vendor/htc/m8/proprietary/bin/adsprpcd:/system/bin/adsprpcd \
+        vendor/htc/m8/proprietary/bin/ATFWD-daemon:/system/bin/ATFWD-daemon \
+        vendor/htc/m8/proprietary/bin/cand:/system/bin/cand \
+        vendor/htc/m8/proprietary/bin/cir_fw_update:/system/bin/cir_fw_update \
+        vendor/htc/m8/proprietary/bin/hcheck:/system/bin/hcheck \
         vendor/htc/m8/proprietary/bin/hci_qcomm_init:/system/bin/hci_qcomm_init \
-        vendor/htc/m8/proprietary/bin/mpdecision:/system/bin/mpdecision \
-        vendor/htc/m8/proprietary/bin/qmuxd:/system/bin/qmuxd \
+        vendor/htc/m8/proprietary/bin/htc_ebdlogd:/system/bin/htc_ebdlogd \
+        vendor/htc/m8/proprietary/bin/irsc_util:/system/bin/irsc_util \
         vendor/htc/m8/proprietary/bin/mm-qcamera-daemon:/system/bin/mm-qcamera-daemon \
+        vendor/htc/m8/proprietary/bin/mpdecision:/system/bin/mpdecision \
         vendor/htc/m8/proprietary/bin/netmgrd:/system/bin/netmgrd \
+        vendor/htc/m8/proprietary/bin/ptt_socket_app:/system/bin/ptt_socket_app \
+        vendor/htc/m8/proprietary/bin/qmuxd:/system/bin/qmuxd \
+        vendor/htc/m8/proprietary/bin/qseecomd:/system/bin/qseecomd \
+        vendor/htc/m8/proprietary/bin/readDapCert:/system/bin/readDapCert \
+        vendor/htc/m8/proprietary/bin/rmt_storage:/system/bin/rmt_storage \
+        vendor/htc/m8/proprietary/bin/time_daemon:/system/bin/time_daemon \
+        vendor/htc/m8/proprietary/bin/wcnss_service:/system/bin/wcnss_service \
         vendor/htc/m8/proprietary/lib/hw/camera.vendor.msm8974.so:/system/lib/hw/camera.vendor.msm8974.so \
         vendor/htc/m8/proprietary/lib/libmmcamera_interface.so:/system/lib/libmmcamera_interface.so \
         vendor/htc/m8/proprietary/lib/libmmcamera_rubik.so:/system/lib/libmmcamera_rubik.so \
